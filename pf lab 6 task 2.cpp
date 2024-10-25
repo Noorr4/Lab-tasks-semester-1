@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	\\ some changes made on git hub.com
 	int password, i=1;
 	do
 	{
