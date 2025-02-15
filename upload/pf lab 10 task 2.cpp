@@ -8,7 +8,7 @@ int compare(int x,int y, int z)
 	}
 	else if(y>x&&y>z)
 	{
-		cout<<"second number is the greatest"<<endl;
+		cout<<"second number is the greatest"<<endl; // new change happen
 	}
 	else
 	{
